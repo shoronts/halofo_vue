@@ -1,0 +1,10 @@
+<template>
+    <div class="container">
+        <div class="about-section">
+            <h2>ABOUT US</h2>
+            <p>We are the Gyru App company based in Kent, United Kingdom. We started our journey with the idea of making an App that will connect people.<br>
+            Halofo is our project to reduce waste from Humans Unwanted purchase
+            </p>
+        </div>
+    </div>
+</template>
